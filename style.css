@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css">
+td#innerForm > table {
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+}
+</style>
+
