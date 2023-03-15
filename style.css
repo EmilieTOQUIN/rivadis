@@ -6,4 +6,8 @@ td#innerForm > table {
     vertical-align: top;
 }
 
+td#innerForm {
+    background: red;
+}
+
 
